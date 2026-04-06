@@ -95,12 +95,12 @@ git push -u origin main
 
 ---
 
-## Status
+## ✅ Status
 
-- Task completed successfully  
-- URLs read from CSV file  
-- HTTP status codes printed correctly  
-- Errors handled properly  
-- Code pushed to GitHub  
+✔️ Task completed successfully  
+✔️ URLs read from CSV file  
+✔️ HTTP status codes printed correctly  
+✔️ Errors handled properly  
+✔️ Code pushed to GitHub  
 
 ---
